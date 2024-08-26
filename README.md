@@ -14,7 +14,7 @@ The project structure distinguishes five folders:
 - The whmeanprerawnrowtfidfpvalue.R is the R function to calculating the MAP for raw, norm L1, norm L2, and tfidf matrices, which is used in code folders of the folder "Wilhelmus data fold in IR".
 
 ## Paper
-Qi, Q., Hessen, D.J. & van der Heijden, P.G.M. Improving information retrieval through correspondence analysis instead of latent semantic analysis. Journal of Intelligent Information Systems 62, 209–230 (2024). https://doi.org/10.1007/s10844-023-00815-y.
+Qi, Q., Hessen, D.J. & Van der Heijden, P.G.M. Improving information retrieval through correspondence analysis instead of latent semantic analysis. Journal of Intelligent Information Systems 62, 209–230 (2024). https://doi.org/10.1007/s10844-023-00815-y.
 
 ## License
 This project is licensed under the terms of the LICENSE GNU General Public License v3.0.
