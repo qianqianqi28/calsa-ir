@@ -14,7 +14,7 @@ end
 #raw frequencies matrix D
 X.svd <- svd(X.count)
 
-#Equation (3)
+
 X.svd$u <- X.svd$u[,1:end]
 X.svd$d <- X.svd$d[1:end]
 X.svd$v <- X.svd$v[,1:end]
