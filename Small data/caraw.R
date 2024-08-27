@@ -29,12 +29,8 @@ sum(DT.P)
 
 ### Row and column masses
 DT.r    <- apply(DT.P, 1, sum)
-
-#The matrix P of joint observed proportions
 round(DT.r,3)
 DT.c    <- apply(DT.P, 2, sum)
-
-#The matrix P of joint observed proportions
 round(DT.c,3)
 
 ### CA Step 1: the matrix S
@@ -65,9 +61,7 @@ DT.csc <- DT.Dcmh%*%DT.svd$v
 ### CA Steps 5 & 6:principal row and column coordinates
 DT.rpc <- DT.rsc%*%diag(DT.svd$d)
 DT.cpc <- DT.csc%*%diag(DT.svd$d)
-### CA Step 7: principal inertias (eigenvalues) and %s
 
-#Equation (16)
 round(DT.svd$u,3)
 round(DT.svd$d,3)
 round(DT.svd$v,3)
