@@ -1,0 +1,3 @@
+In "code\BBCNews create matrix" folder, there are four files to create documnent-term matrices and created matrices are used in "code\BBCNews create data" folder.
+In "code\BBCNews create data" folder, there are four folders for creating datas that are used in "code\BBCNews analyze and plot data" folder.
+In "code\BBCNews analyze and plot data" folder, there are three files for creating the plots and tables in this paper.
