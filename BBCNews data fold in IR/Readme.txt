@@ -2,7 +2,7 @@ The data about BBCNews dataset in this repository is from link url = {http://mlg
 Specifically, the "bbc-fulltext.zip" folder in this DATA STORAGE is from link url = {http://mlg.ucd.ie/datasets/bbc.html} by clicking "Download raw text files" in Dataset: BBC.
 The "data" folder is obtained by decompressing "bbc-fulltext.zip" and make documents from 5 categories be in a folder "bbcnews" and the "README.TXT" is stored individually.
 
-The dataset is the same as the dataset used in the first paper.
+The dataset is the same as the dataset used in the calsa-tc/BBCNews data 5 fold in.
 
 ## code
 
