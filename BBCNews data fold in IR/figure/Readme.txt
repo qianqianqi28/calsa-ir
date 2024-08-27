@@ -1,1 +1,1 @@
-In "figure" folder, there is figures created by the code.
+In "figure" folder, there are figures created by the code.
