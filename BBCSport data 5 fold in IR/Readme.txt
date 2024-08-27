@@ -2,7 +2,7 @@ The data about BBCSport dataset in this repository is from link url = {http://ml
 Specifically, the "bbcsport-fulltext.zip" folder in this DATA STORAGE is from link url = {http://mlg.ucd.ie/datasets/bbc.html} by clicking "Download raw text files" in Dataset: BBCSport. 
 The "data" folder is obtained by decompressing "bbcsport-fulltext.zip" and make documents from 5 categories be in a folder "bbcsport" and the "README.TXT" is stored individually.
 
-The dataset is the same as the dataset used in the first paper.
+The dataset is the same as the dataset used in the calsa-tc/BBCSport data 5 fold in.
 
 ## code
 
