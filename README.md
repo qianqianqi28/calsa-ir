@@ -2,7 +2,7 @@
 This project is for Improving information retrieval through correspondence analysis instead of latent semantic analysis.
 
 ## Configuration instructions
-The project structure distinguishes five folders:
+The project structure distinguishes five folders and four .R files:
 - The folder "small data" is for the toy dataset of 6*6.
 - The folder "BBCNews data fold in IR" is for BBCNews dataset.
 - The folder "BBCSport data 5 fold in IR" is for BBCSport dataset.
